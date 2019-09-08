@@ -9,7 +9,7 @@ def meal_choice(veg1, veg2, protien ="meat")
   
 end
 
-meal_choice ()
+meal_choice ("broccoli", "macaroni")
 
+meal_choice ("broccoli", "macaroni" , "tofu")
 
-"broccoli", "macaroni", "tofu"
